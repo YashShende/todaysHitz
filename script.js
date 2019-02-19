@@ -17,7 +17,7 @@ var songs = [
         var poster = ["https://images.music-worx.com/covers/Hello-Hiren-Whyte-Label-musicworx.jpg",
 		"http://lh3.googleusercontent.com/y4B_SVLZplALZ474KKsVCrqL3ACE_5bSrm7tH3lEjhIGSpv47vWRTN9GcN6NxlbbLA=w300",
         	"http://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2016/05/12/Radio%20Mirchi.jpg?itok=d-QBu3Ee",
-        	"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT6_0NA15PmhzTQW1ucKgUZEI-TyGZdRRtC8S8OvaFksj-Hhk6",
+        	"http://buystreamspot.com/wp-content/uploads/2018/05/07.jpg",
         	"https://pbs.twimg.com/media/Dp9jBWKWkAEtNyr.jpg"
         	];
 
