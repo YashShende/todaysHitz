@@ -14,7 +14,7 @@ var songs = [
 
 
         
-        var poster = ["https://assets.rjvan-1a.com/static/playlist/5883691/af8c5adf6b21d6f.jpg",
+        var poster = ["https://images.music-worx.com/covers/Hello-Hiren-Whyte-Label-musicworx.jpg",
         	"https://d49r1np2lhhxv.cloudfront.net/www/admin/uploads/images/WTFEDMpic.jpg",
         	"http://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2016/05/12/Radio%20Mirchi.jpg?itok=d-QBu3Ee",
         	"https://pbs.twimg.com/media/DmuQ4qmXsAAtlt7.jpg",
